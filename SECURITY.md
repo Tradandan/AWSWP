@@ -2,44 +2,55 @@
 
 ## Disclaimer of Responsibility
 
-This project is provided "as is," without warranty of any kind, express or implied. The responsibility for identifying and reporting vulnerabilities lies with the GitHub community. The maintainers do not accept liability for any security issues or their impact.
+This project is provided "as is," and the responsibility for ensuring security lies with the **end user**. The maintainers of this project are not liable for any vulnerabilities, misuse, or damages arising from its use.
+
+By using this project, you acknowledge and agree that:
+- It is your responsibility to verify the security of this project in your environment.
+- The maintainers are not responsible for addressing or resolving vulnerabilities.
+
+---
+
+## User Responsibilities
+
+As a user, you are responsible for:
+1. **Securing Your Environment**:
+   - Ensure your systems, network, and configurations are secure.
+   - Follow industry best practices for deploying and maintaining software.
+
+2. **Monitoring Dependencies**:
+   - Regularly review the dependencies used in this project for known vulnerabilities.
+   - Update to the latest versions where applicable.
+
+3. **Identifying and Reporting Issues**:
+   - If you discover a potential issue, you may report it by opening a GitHub issue or discussing it with the community.
+   - The responsibility for fixing vulnerabilities lies with the community or your own team.
+
+4. **Understanding and Applying Patches**:
+   - Apply patches or updates provided by the GitHub community or your team.
+   - Regularly monitor the repository for updates.
 
 ---
 
 ## Reporting a Vulnerability
 
-If you discover a potential security vulnerability:
-
-1. **Open a GitHub Issue**:
-   - Clearly describe the issue and label it as a "Security Concern."
-   - Avoid including sensitive information in the public issue.
-
-2. **Rely on the Community**:
-   - Discussions and resolutions regarding vulnerabilities will rely on the contributions of the GitHub community.
-   - Contributors are encouraged to propose fixes, verify reports, or raise awareness.
-
----
-
-## Scope of Security Coverage
-
-The project maintainers:
-- Do not provide formal support for security issues.
-- Are not liable for vulnerabilities that may exist or arise in this project.
-- Rely on the GitHub community to monitor and address security matters collaboratively.
+If you wish to report a vulnerability:
+- Open an issue on the repository and describe the concern.
+- Avoid sharing sensitive information publicly.
+- The resolution of the vulnerability will rely on contributions from the GitHub community.
 
 ---
 
 ## Security Guidance for Users
 
-As a user:
 - Use the project at your own risk.
-- Regularly update your dependencies and follow general security best practices.
-- Monitor public GitHub Issues for community-reported concerns.
+- Test the project thoroughly in your environment before deploying it to production.
+- Follow secure coding and deployment practices.
 
-For additional guidance, visit GitHub's [Security Best Practices](https://docs.github.com/en/code-security).
+For guidance, refer to resources such as the [OWASP website](https://owasp.org/) or GitHub's [Security Best Practices](https://docs.github.com/en/code-security).
 
 ---
 
 ## Acknowledgments
 
-We thank the GitHub community for their collaboration and efforts to identify and address potential vulnerabilities. This project thrives because of your contributions!
+We thank the community for their contributions and collaboration to improve this project. The security and reliability of the project depend on collective efforts.
+v
